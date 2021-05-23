@@ -82,7 +82,6 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr); /* Divide o grid em 4 colunas */
     grid-column-gap: 30px;
-    margin: 0 auto;
 }
 
 #modelos .container div:last-child{
